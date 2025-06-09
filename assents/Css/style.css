@@ -21,3 +21,24 @@
     height: 450px;
     width: 450px;
 }
+.texto-banner{
+    font-size: 60px;
+    font-style: bolder;
+   
+}
+.caixa-texto{
+    width: 400px;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+}
+.titulo{
+    display: flex;
+    align-items: center;
+}
+.caixa-estrutura{
+    display: flex;
+    flex-direction: row;  
+}

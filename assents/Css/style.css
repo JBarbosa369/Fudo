@@ -71,4 +71,45 @@
     font-weight: bolder;
     font-size: 40px;
 }
+.titulo-secudanrios3{
+    font-display: flex;
+    justify-content: end;
+    align-items: center;
+    flex-direction: column-reverse;
+    color: rgb(26, 25, 25);
+    font-weight: 500;
+}
 
+
+.titulo-secudanrios1{
+    font-weight: bolder;
+    font-size: 40px;
+    color: black;
+}
+.titulo-primarios1{
+    font-weight: bolder;
+    font-size: 40px;
+    color: black;
+}
+
+.titulo-secudanrios2{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.titulo-primarios2{
+    font-weight: bolder;
+    font-size: 40px;
+}
+.titulo-primarios3{
+    font-weight: bolder;
+    font-size: 40px;
+    color: black;
+}
+.titulo-secudanrios3{
+    font-weight: bolder;
+    font-size: 40px;
+    color: black;
+}
+.caixa-card{
+   display: flex;
+}

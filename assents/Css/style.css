@@ -64,52 +64,33 @@
 
  }
  .titulo-secudanrios{
-    color: red;
+    color: rgb(177, 15, 15);
     font-weight: 500;
  }
 .titulo-primarios{
     font-weight: bolder;
     font-size: 40px;
 }
-.titulo-secudanrios3{
-    font-display: flex;
-    justify-content: end;
+
+.class-cards{
+    display: flex;
+    flex-direction: row;
     align-items: center;
-    flex-direction: column-reverse;
-    color: rgb(26, 25, 25);
-    font-weight: 500;
+    justify-content: center;
+  width: 700PX;
+}
+.caixa-frente{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+#img1{
+    width: 200px;
 }
 
 
-.titulo-secudanrios1{
-    font-weight: bolder;
-    font-size: 40px;
-    color: black;
-}
-.titulo-primarios1{
-    font-weight: bolder;
-    font-size: 40px;
-    color: black;
-}
 
-.titulo-secudanrios2{
-    font-weight: bolder;
-    font-size: 40px;
-}
-.titulo-primarios2{
-    font-weight: bolder;
-    font-size: 40px;
-}
-.titulo-primarios3{
-    font-weight: bolder;
-    font-size: 40px;
-    color: black;
-}
-.titulo-secudanrios3{
-    font-weight: bolder;
-    font-size: 40px;
-    color: black;
-}
-.caixa-card{
-   display: flex;
-}
+
